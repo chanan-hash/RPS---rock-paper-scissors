@@ -10,7 +10,7 @@
 6. the codes are based on youtube guides for the game' all so the one with out the picture.
 7. I workd with TK library for the GUI. it is the basic GUI library in python.
 
-##problems
+## problems
 well in the code with the button hanve one problem.
 I could't make a counter in the game, so it will give you the nuber of win and lose.
 I succeeded to put it on the window, but it doesn't change the number according to the win and lose.
